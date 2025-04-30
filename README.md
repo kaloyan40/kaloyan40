@@ -2,7 +2,7 @@
 Welcome to my GitHub profile.
 
 ## About me
-- Why do I need this in the first place?
+Why do I need this in the first place?
 
 ### Diplomas
 - [Software Engineer with Python](https://softuni.bg/Certificates/Details/215924/f7cd49fb)
