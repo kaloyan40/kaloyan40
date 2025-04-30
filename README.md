@@ -1,13 +1,13 @@
 ## Hi there 👋
 Welcome to my GitHub profile.
 
-### About me
+## About me
 - Why do I need this in the first place?
 
-## Diplomas
+### Diplomas
 - [Software Engineer with Python](https://softuni.bg/Certificates/Details/215924/f7cd49fb)
 
-## Certificates
+### Certificates
 - [Programming Basics](https://softuni.bg/Certificates/Details/116964/17c70177)
 - [Programming Fundamentals](https://softuni.bg/Certificates/Details/129255/fb666c14)
 - [Python Advanced](https://softuni.bg/Certificates/Details/135966/f230970a)
